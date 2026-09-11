@@ -8,5 +8,5 @@ Air Ventures Association Limited is a Kenya-based organisation that is largely d
 
 ### Landing Page For Air Ventures Association Limited
 
-Below is the landing page for the website:
-https://tomlutherke.github.io/kastra-intranational-supply-services/
+The landing page for the website:
+https://tomlutherke.github.io/airventuresassociation
